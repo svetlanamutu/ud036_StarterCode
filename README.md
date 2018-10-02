@@ -12,5 +12,8 @@ This application was tested in Python 3.7.0.
 ## Possible issues
 Older Python versions may not work with this code since some libraries changed in 3.7.0 version.
 
+## Notes
+You will notice that there are two image files in this repository: LifeOfPi.jpg and TheIntouchables.jpg. The reason why these image files are not opened from a remote location, like the images of the other two movies, is that I could not easily find them in Wikimedia.
+
 ## License
 GNU GPLv3
